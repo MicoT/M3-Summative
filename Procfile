@@ -1,0 +1,1 @@
+web: gunicorn risk_checker_web_app:app
